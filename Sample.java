@@ -3,6 +3,6 @@ Class Sample
 {
 	public statis void main(String args[])
 	{
-		System.out.println("Welcome to java");
+		System.out.println("Welcome to tow");
 	}
 }
